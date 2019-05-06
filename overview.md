@@ -4,7 +4,7 @@ has_children: false
 nav_order: 2
 ---
 
-## Architecture
+# Architecture
 
 This page documents the overall architecture of emax digital SaaS platform.
 [...insert fancy diagrams]
