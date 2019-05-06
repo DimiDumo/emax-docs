@@ -1,1 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
+
+title: emax digital documentation
+description: The documentaion of the emax digital tools
+
+search_enabled: true
+
+aux_links:
+  "Homepage":
+    - "https://www.emax-digital.com/"
