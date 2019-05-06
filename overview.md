@@ -11,5 +11,5 @@ This page documents the overall architecture of emax digital SaaS platform.
 
 ### Components
 
-* [emax-engine]({{ site.baseurl }}{% link emax-engine/index.md %})
 * [emax-ui]({{ site.baseurl }}{% link emax-ui/index.md %})
+* [emax-engine]({{ site.baseurl }}{% link emax-engine/index.md %})
