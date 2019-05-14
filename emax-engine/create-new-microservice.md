@@ -34,8 +34,7 @@ connect your microservice.
    * Register the new service at `src/services/index.js`.
  **Important**: The service must always be registered  *before* the graphql service.
 3. Add the following lines to the `docker-compose.dev.rep.yml` file and replace 
-*example-service* with the name of your microservice.
-
+*example-service* with the name of your microservice.  
 ```
   example-service:
     build:
@@ -47,7 +46,6 @@ connect your microservice.
     depends_on:
       - mongodb
 ```
-
 4. Add the url of the mircoservice to emax-engine
    * In `config.default.json` of emax-engine add the url of your microservice
  inside the `microservice` object like follows: 
